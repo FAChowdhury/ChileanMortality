@@ -4,3 +4,5 @@ Analysis of the mortality of annuitants in Chile during the period 2014-2018. Th
 Please view `Specification.pdf` for more information.
 
 To view the report, please click `Report.pdf`.
+
+To view the R code, please click `Code.R`.
